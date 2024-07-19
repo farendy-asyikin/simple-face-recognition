@@ -8,3 +8,9 @@ DATABASES = {
         'PORT': '5433',
     }
 }
+
+INSTALLED_APPS = [
+    'simple-face-recognition',
+    'rest_framework',
+]
+
